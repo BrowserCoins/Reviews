@@ -11,3 +11,7 @@
 
 ## IQmining
 [Сайт IQmining](https://client.iqmining.com/rf/50e9e0f931f10)
+
+
+## Genesis Mining
+[Сайт Genesis Mining](https://www.genesis-mining.com/pricing)
