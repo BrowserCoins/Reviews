@@ -10,4 +10,4 @@
 
 
 ## Iqmining
-https://iqmining.com/
+[Ссылка](https://iqmining.com/)
