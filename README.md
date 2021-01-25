@@ -9,5 +9,5 @@
 ## Brave
 
 
-## Iqmining
-[Ссылка](https://iqmining.com/)
+## IQmining
+[Сайт IQmining](https://client.iqmining.com/rf/50e9e0f931f10)
