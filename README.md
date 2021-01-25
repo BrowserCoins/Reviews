@@ -18,3 +18,4 @@
 
 
 https://cryptouniverse.io/ru
+https://cryptouniverse.io/ru/cloudmining
